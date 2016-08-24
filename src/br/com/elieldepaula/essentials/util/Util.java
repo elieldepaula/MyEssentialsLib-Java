@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 /**
  * Esta classe reúne alguns métodos usados com frequência em meus projetos.
  * 
- * @since 22/08/2016
+ * @since 0.0.1 22/08/2016
  * @version 0.0.1
  * @author Eliel de Paula <dev@elieldepaula.com.br>
  */

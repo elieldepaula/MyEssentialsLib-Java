@@ -1,5 +1,5 @@
 
-package br.com.elieldepaula.essentials.dao;
+package br.com.elieldepaula.essentials.jpadao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ import javax.persistence.Query;
  * funcione corretamente o arquivo de persistência deve ter o nome
  * de "PersistenceConfigPU"
  * 
- * @since 22/08/2016
+ * @since 0.0.1 22/08/2016
  * @version 0.0.1
  * @author Eliel de Paula <dev@elieldepaula.com.br>
  */
